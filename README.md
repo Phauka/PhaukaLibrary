@@ -6,7 +6,7 @@
 --[[
     API METHODS
 --]]
-
+```lua
 phauka:AddFrame(userId?)
 
 phauka:AddButton(name, parent?)
@@ -22,3 +22,4 @@ phauka:AddActionButton(parent, text, callback)
 phauka:Notify(config)
 
 phauka:Destroy()
+```
